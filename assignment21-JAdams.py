@@ -5,7 +5,7 @@ askString = askString.lower()
 the download link opened a page displaying the texts
 So i created a new .txt file and copied the content there
 If your doc is not named AliceInWonderland.txt,
-please change the alice variable's open string
+please change the book variable's open string
 to match your document type/title.
 """
 book = open("AliceInWonderland.txt", 'r')
